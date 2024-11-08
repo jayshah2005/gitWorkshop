@@ -6,6 +6,7 @@ class calculator{
     }
 
     void add(int i, int j){
+        // this looks pretty sus
         System.out.println(i * j);
     }
 
